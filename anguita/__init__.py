@@ -42,4 +42,4 @@ def compare():
         print '\t'.join([str(x), str(accurate), str(approx), str(delta)])
 
 if __name__ == '__main__':
-    test()
+    compare()
